@@ -1,0 +1,1 @@
+/usr/local/Athenaeum/manufactum/clippy.bash
